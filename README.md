@@ -1,5 +1,10 @@
 # Welcome to the Personal Health Tracker!
 
+<div align="center">
+  <img src="./Images/image.jpg" width="auto" alt="preview">
+</div>
+
+
 This project helps you track and analyze your health data, such as weight, height, BMI, steps walked, and water intake. It provides valuable insights and feedback to help you maintain a healthy lifestyle. 
 
 Feel free to explore, contribute, and improve your health with this tool!
