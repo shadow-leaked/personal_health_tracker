@@ -101,7 +101,7 @@ flask
 Make sure to adjust the requirements.txt if you add new dependencies to your project in the future.
 
 ### License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ### Contributors
 
