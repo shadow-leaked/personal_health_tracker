@@ -80,7 +80,7 @@ python main.py
 ### Step 7: Enter Data
 The program will prompt you to enter various health-related data. After entering the data, the program will store it in the SQLite database and provide a health analysis summary.
 
-Directory Structure
+### Directory Structure
 ```bash
 personal_health_tracker/
 ├── main.py                # Main script to run the program
